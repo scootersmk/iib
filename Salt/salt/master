@@ -1,0 +1,7 @@
+fileserver_backend:
+  - git
+
+gitfs_remotes:
+  - git://github.com/scootersmk/iib.git
+
+gitfs_root: Salt
